@@ -1,2 +1,3 @@
 add test
 add branch
+Creating a new branch is quick AND simple.
